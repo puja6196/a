@@ -1,8 +1,7 @@
-package com.nucleus.connection;
+package com.nucleus.Connection;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
-
-
 import java.sql.SQLException;
 
 public class ConnectionSetup 
